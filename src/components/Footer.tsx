@@ -2,7 +2,7 @@ import fatboyLogo from "@/assets/fatboy-logo.webp";
 
 const footerLinks = [
   ["Our Story", "Menu", "Gift Cards"],
-  ["Order Online", "Events", "Locations"],
+  ["Order Online", "Events", "potato"],
   ["Contact", "Catering", "Jobs"],
 ];
 
